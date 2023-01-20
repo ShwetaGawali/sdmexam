@@ -1,0 +1,22 @@
+{
+  "name": "delittes_code",
+  "version": "1.0.0",
+  "description": "SDM_Exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShwetaGawali/Delittes_code.git"
+  },
+  "author": "Shweta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShwetaGawali/Delittes_code/issues"
+  },
+  "homepage": "https://github.com/ShwetaGawali/Delittes_code#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
